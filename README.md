@@ -7,7 +7,14 @@ Newfor is a simple protocol for teletext subtitles. It has only four functions, 
 
 How to use this code?
 =====================
-Install the latest version of Processing. Run Processing and load newfor.pde. Then you can run it from the Processing environment. It should be equally happy on Windows, Linux or Mac. You can always export the application to make it into a stand-alone package.
+Install (extract from Archive downloaded) the latest version of Processing https://processing.org/download/ currently 3.3.7 (13 March 2018)
+
+Run Processing and load newfor.pde, you will need to add a Libary called "controlP5".
+In Windows version of Processing, goto the Sketch menu, choose Import Library... Add Library... serach for controlP5 (currently version 2.2.6) click Install
+
+Then you can run it from the Processing environment. 
+
+It should be equally happy on Windows, Linux or Mac. You can always export the application to make it into a stand-alone package.
 
 Configuration
 =============
